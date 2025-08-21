@@ -56,4 +56,18 @@ docker-compose up -d --build
 docker ps
 
 
+# 🛠 Useful Commands
+
+# Stop services
+docker-compose down
+
+# Stop & remove volumes
+docker-compose down -v
+
+# View logs
+docker logs auth_service
+docker logs post_service
+docker logs nginx_gateway
+
+
 
