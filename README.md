@@ -66,7 +66,6 @@ docker-compose up -d --build
 ```bash
 docker ps
 
-
 # 🛠 Useful Commands
 
 # Stop services
