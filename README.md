@@ -6,8 +6,7 @@ This project demonstrates a simple **microservices architecture** using:
 - **Auth Service** (handles user authentication)
 - **Post Service** (handles posts management)
 - **Nginx Gateway** (API gateway / reverse proxy)
-  
----
+
 
 ## ⚙️ Services
 
@@ -38,8 +37,6 @@ This project demonstrates a simple **microservices architecture** using:
 5. **Nginx Gateway**  
    - Port: `80` (external)  
    - Acts as reverse proxy for `auth_service` and `post_service`.
-
----
 
 ## 🚀 Getting Started
 
