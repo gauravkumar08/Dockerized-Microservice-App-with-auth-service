@@ -45,6 +45,8 @@ This project demonstrates a simple **microservices architecture** using:
 git clone https://github.com/yourusername/microservice-app.git
 cd microservice-app
 
+```bash
+
 2️⃣ Build & Start Services
 ```bash
 docker-compose up -d --build
