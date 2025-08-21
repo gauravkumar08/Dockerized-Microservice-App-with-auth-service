@@ -7,6 +7,17 @@ This project demonstrates a simple **microservices architecture** using:
 - **Post Service** (handles posts management)
 - **Nginx Gateway** (API gateway / reverse proxy)
 
+# 📦 Tech Stack
+
+Docker & Docker Compose
+
+MongoDB
+
+Redis
+
+Node.js/Express (for services)
+
+Nginx (API Gateway)
 
 ## ⚙️ Services
 
